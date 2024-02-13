@@ -33,11 +33,11 @@ Part C: K-SVD and MOD for sparse signal recovery (dictionary learning)
 ### Homework 7
 Single & multi-channel sparse blind deconvolution
 
-## Homework 8
+### Homework 8
 BSS problem with independent sources (minimize the Kullback-Leibler divergence (D_kl))
 
-## Homework 9
+### Homework 9
 BSS problem with independent sources (minimize the Kullback-Leibler divergence (D_kl) with deflation and equivariant methods)
 
-## Homework 10
+### Homework 10
 BSS problem with independent sources (maximize Kurt with fixed-point method (FAST ICA) and two other methods)
