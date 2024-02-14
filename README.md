@@ -12,11 +12,11 @@ Part B: Steepest Descend, Newton's Method, Alternation Minimization, Gradient Pr
 
 ### Homework 2
 Part A: Principal Component Analysis (PCA) - Singular Value Decomposition (SVD)\
-Part B: Beamforming - Multiple Signal Classification (MUSIC)
-\
-<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/7cfeac73-15cf-4f02-be20-bebfed3f7d2e" width="400" height="250">
+Part B: Beamforming - Multiple Signal Classification (MUSIC)\
 \
 <img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/711fa767-93f1-44ce-b1ea-a89c299b3773" width="400" height="250">
+\
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/7cfeac73-15cf-4f02-be20-bebfed3f7d2e" width="400" height="250">
 
 ### Homework 3
 Part A: Common Spatial Patterns (CSP) combined with Linear Discriminant Analysis (LDA) for Motion Classification using EEG Signal\
