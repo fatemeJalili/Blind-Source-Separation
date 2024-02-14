@@ -20,8 +20,12 @@ Part B: Beamforming - Multiple Signal Classification (MUSIC)\
 
 ### Homework 3
 Part A: Common Spatial Patterns (CSP) combined with Linear Discriminant Analysis (LDA) for Motion Classification using EEG Signal\
-Part B: Canonical Correlation Analysis (CCA) for identifying the Steady-State Visually Evoked Potential (SSVEP) frequency
+\
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/0f6f2fd9-fb04-45bf-9ad3-6ca1e46161d0" width="400" height="250">
 
+Part B: Canonical Correlation Analysis (CCA) for identifying the Steady-State Visually Evoked Potential (SSVEP) frequency\
+\
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/4015eefe-0759-425b-9518-d52efaf1c18a" width="400" height="250">
 ### Homework 4
 Part A: BSS Problem with Non Stationary Uncorrelated Sources\
 Part B: BSS problem with mutually uncorolated sources
