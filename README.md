@@ -7,11 +7,16 @@ Part A: BSS Problem with Linear and Instantaneous Sources\
 <img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/f8676c86-3874-4e7d-b810-e534c54a21f3" width="400" height="250">
 
 Part B: Steepest Descend, Newton's Method, Alternation Minimization, Gradient Projection\
+\
 <img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/d69f90b5-5956-45d3-8911-3d6dedeea1a7" width="400" height="250">
 
 ### Homework 2
 Part A: Principal Component Analysis (PCA) - Singular Value Decomposition (SVD)\
 Part B: Beamforming - Multiple Signal Classification (MUSIC)
+\
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/7cfeac73-15cf-4f02-be20-bebfed3f7d2e" width="400" height="250">
+\
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/711fa767-93f1-44ce-b1ea-a89c299b3773" width="400" height="250">
 
 ### Homework 3
 Part A: Common Spatial Patterns (CSP) combined with Linear Discriminant Analysis (LDA) for Motion Classification using EEG Signal\
