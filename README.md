@@ -4,7 +4,7 @@ This repository contains the code and documentation for the Blind Source Separat
 ### Homework 1
 Part A: BSS Problem with Linear and Instantaneous Sources\
 \
-<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/f8676c86-3874-4e7d-b810-e534c54a21f3" alt="Screenshot 2024-02-14 115228" width="500" height="300">
+<img src="https://github.com/fatemeJalili/Blind-Source-Separation/assets/113304184/f8676c86-3874-4e7d-b810-e534c54a21f3" alt="Screenshot 2024-02-14 115228" width="400" height="250">
 
 Part B: Steepest Descend, Newton's Method, Alternation Minimization, Gradient Projection
 
