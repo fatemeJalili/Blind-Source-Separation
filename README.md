@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a874ad09-bf89-4f89-9b81-f5da4064a3a8)# Blind-Source-Separation
+# Blind-Source-Separation
 This repository contains the code and documentation for the Blind Source Separation (BSS) course homework assignments. The assignments cover various topics related to BSS and its applications. Below is a summary of each homework assignment:
 
 ## Homework 1
@@ -68,7 +68,12 @@ This repository contains the code and documentation for the Blind Source Separat
   </div>
 
 ## Homework 9
-- BSS problem with independent sources (minimize the Kullback-Leibler divergence (D_kl) with deflation and equivariant methods)
+- BSS problem with independent sources, minimize the Kullback-Leibler divergence (D_kl) with **deflation** and **equivariant** methods
+  
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/c9ea4b91-891f-4a01-a4e6-8a6e3585d82a" width="600">
+    <img src="https://github.com/user-attachments/assets/87ab93e0-d612-4d1c-a7e0-4e8523049b62" width="600">
+  </div>
 
 ## Homework 10
 - BSS problem with independent sources (maximize Kurt with fixed-point method (FAST ICA) and two other methods)
