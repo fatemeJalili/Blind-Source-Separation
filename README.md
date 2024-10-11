@@ -30,8 +30,8 @@ This repository contains the code and documentation for the Blind Source Separat
 
 ## Homework 4
 - Part A: BSS poblem with **non stationary uncorrelated** sources
-  
-  <img src="https://github.com/user-attachments/assets/9d57fab8-cbda-4717-89a6-9667bd9e4f0f" width="500">
+- 
+  <img src="https://github.com/user-attachments/assets/cdf9122d-1fe6-498a-956d-48f96666914e" width="500">
 
 - Part B: BSS problem with **mutually uncorolated** sources
 
@@ -46,9 +46,11 @@ This repository contains the code and documentation for the Blind Source Separat
 ## Homework 6
 - Part A: Least Absolute Shrinkage and Selection Operator (**LASSO**)
 - Part B: 2d and 3d frame designing
+
     <img src="https://github.com/user-attachments/assets/17cbe0dd-b41b-4234-96fb-e5960527399a" width="300">
 
 - Part C: **K-SVD** and **MOD** for sparse signal recovery (**dictionary learning**)
+  
     <img src="https://github.com/user-attachments/assets/198fc8e2-5472-4c87-a245-5ff3aa97765b" width="450">
 
 
