@@ -30,7 +30,7 @@ This repository contains the code and documentation for the Blind Source Separat
 
 ## Homework 4
 - Part A: BSS poblem with **non stationary uncorrelated** sources
-- 
+  
   <img src="https://github.com/user-attachments/assets/cdf9122d-1fe6-498a-956d-48f96666914e" width="500">
 
 - Part B: BSS problem with **mutually uncorolated** sources
@@ -55,7 +55,9 @@ This repository contains the code and documentation for the Blind Source Separat
 
 
 ## Homework 7
-- Single & multi-channel sparse blind deconvolution
+- **Single & multi-channel** sparse blind deconvolution
+
+    <img src="https://github.com/user-attachments/assets/6e77f1d2-2aef-459d-8818-832c3d815381" width="600">
 
 ## Homework 8
 - BSS problem with independent sources (minimize the Kullback-Leibler divergence (D_kl))
