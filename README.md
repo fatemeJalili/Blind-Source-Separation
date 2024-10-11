@@ -71,9 +71,16 @@ This repository contains the code and documentation for the Blind Source Separat
 - BSS problem with independent sources, minimize the Kullback-Leibler divergence (D_kl) with **deflation** and **equivariant** methods
   
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/c9ea4b91-891f-4a01-a4e6-8a6e3585d82a" width="600">
-    <img src="https://github.com/user-attachments/assets/87ab93e0-d612-4d1c-a7e0-4e8523049b62" width="600">
+    <img src="https://github.com/user-attachments/assets/c9ea4b91-891f-4a01-a4e6-8a6e3585d82a" width="400">
+    <img src="https://github.com/user-attachments/assets/87ab93e0-d612-4d1c-a7e0-4e8523049b62" width="400">
   </div>
 
 ## Homework 10
-- BSS problem with independent sources (maximize Kurt with fixed-point method (FAST ICA) and two other methods)
+- BSS problem with independent sources, maximize **Kurt** with **fixed-point** method (**FAST ICA**) and another method not sensitive to outliers
+  
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/52a67383-8b45-4897-b36b-564eafb6cf78" width="400">
+    <img src="https://github.com/user-attachments/assets/05d267f3-b535-49c3-8c74-3c7ae1d23f7f" width="400">
+  </div>
+
+
